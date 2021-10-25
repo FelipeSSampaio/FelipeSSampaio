@@ -1,5 +1,9 @@
-  Olá, eu sou [Felipe](https://github.com/FelipeSSampaio "Profile no github")
-    
+ ## Olá! Eu sou o Felipe Sampaio
+ 
+  - :hammer: Atualmente sou: Senior Consultant na Provider IT & Business Solutions
+  - :books: Estou estudando um pouco mais sobre: Docker
+  
+  
   <div>
       <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeSSampaio&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
       <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSSampaio&layout=compact&langs_count=16&theme=default" />
@@ -21,4 +25,8 @@
     <img title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
     <img title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
     <img title="BootStrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
+    <img title="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+    <img title="SqlServer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+    <img title="TomCat" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" />
+    <img title="VisualStudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" />
   </div>
