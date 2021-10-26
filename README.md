@@ -30,7 +30,7 @@
     <img title="VisualStudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" />
   </div>
   
-  #### Outras infos:
+  #### Estatísticas do github:
   <div>
      <img src="https://github-readme-stats.vercel.app/api?username=FelipeSSampaio&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSSampaio&layout=compact&langs_count=16&theme=default" />
