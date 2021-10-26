@@ -5,7 +5,7 @@
   
   
   <div>
-      <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeSSampaio&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
+      <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeSSampaio&show_icons=true&theme=default&include_all_commits=true&count_private=true" style="max-width: 50%;"/>
       <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSSampaio&layout=compact&langs_count=16&theme=default" />
   </div>
   
