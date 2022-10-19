@@ -1,7 +1,7 @@
  ## Olá! Eu sou o Felipe Sampaio
  
   - :hammer: Atualmente sou: *Senior Consultant na Provider IT & Business Solutions*
-  - :books: Estou estudando um pouco mais sobre: *Docker*
+  - :books: Estou estudando um pouco mais sobre: *Docker*, *Jenkins*
   - :mortar_board: Formado em:
     - Bacharel em Análises de Sistemas
     - Pós-Graduado em Engenharia de Software: Java
